@@ -79,9 +79,3 @@ JSON containing per-box confidence values and merged text.
 ├── test.py         # Local end-to-end inference and visualization
 └── examples/       # Standalone model inference references
 ```
-
-## Repository history
-
-This repository was initialized from a recovered local project snapshot. The
-initial import records the available source as found; it does not claim to
-reconstruct intermediate development states that were not preserved.
